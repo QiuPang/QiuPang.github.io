@@ -4,3 +4,6 @@ body{
 .tc{
     text-align: center;
 }
+ol, p{
+    font-size: .5rem;
+}
